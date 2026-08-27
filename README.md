@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Isaac 👋
 
-<!--
-**IsaacLeh1/IsaacLeh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and ship full-stack web tools, usually solo, from first commit through the client actually using it.
 
-Here are some ideas to get you started:
+**What I've been working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SSEditor** — a visual editor, approval workflow, and hosting pipeline for client websites, built around a "Site Studio" system. This is my main project — 650+ commits and still growing. (Private for now, but it's the biggest thing here.)
+- **[site-studio-sites](https://github.com/IsaacLeh1/site-studio-sites)** — real client sites built and shipped with Site Studio, brought together in one place.
+- **[grantai](https://github.com/IsaacLeh1/grantai)** — an AI assistant agent for finding and working with grants.
+- **[WhiteLabelAdvisors](https://github.com/IsaacLeh1/WhiteLabelAdvisors)** — a reusable website base/template.
+- **[TimeChecker](https://github.com/IsaacLeh1/TimeChecker)** and **[ExtensionLabDesigns](https://github.com/IsaacLeh1/ExtensionLabDesigns)** — small Chrome extensions.
+
+Feel free to look around. Always open to feedback.
