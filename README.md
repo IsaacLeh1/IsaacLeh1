@@ -1,4 +1,4 @@
-### Hi, I'm Isaac 👋
+### Hi, I'm Isaac
 
 I build and ship full-stack web tools, usually solo, from first commit through the client actually using it.
 
