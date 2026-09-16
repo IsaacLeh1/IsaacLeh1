@@ -5,6 +5,8 @@ I build and ship full-stack web tools, usually solo, from first commit through t
 **What I've been working on**
 
 - **SSEditor** — a visual editor, approval workflow, and hosting pipeline for client websites, built around a "Site Studio" system. This is my main project — 650+ commits and still growing. (Private for now, but it's the biggest thing here.)
+- **financetracker** — a personal finance tracker with AI-assisted transaction categorization, recurring-spend detection, and account reconciliation. (Private)
+- **uvu-ai-workspace** — a desktop AI client built on the open-source OpenWork project. (Private, internal distribution)
 - **[site-studio-sites](https://github.com/IsaacLeh1/site-studio-sites)** — real client sites built and shipped with Site Studio, brought together in one place.
 - **[grantai](https://github.com/IsaacLeh1/grantai)** — an AI assistant agent for finding and working with grants.
 - **[WhiteLabelAdvisors](https://github.com/IsaacLeh1/WhiteLabelAdvisors)** — a reusable website base/template.
